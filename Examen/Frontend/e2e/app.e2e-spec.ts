@@ -12,4 +12,3 @@ describe('frontend App', () => {
     expect(page.getParagraphText()).toEqual('app works!');
   });
 });
-
